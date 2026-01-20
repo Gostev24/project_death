@@ -46,7 +46,7 @@ hash = "2f3a280af647139ec5a4d90dee38d862eabe438cc4937a704d5e8fe54455e3cc"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "db3064ac0cf442a967257a5b3d28ea11b005ff095aac31c9d0b2bbfe61ee6596"
+hash = "a1424b35cb2f64e42ddd7d38c32247d051844892e7f309471befae002f605eac"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
@@ -567,6 +567,10 @@ hash = "bc8659948a2d386656992219bd99ac2349eeef9d89156200dfe78cd7c38706c1"
 [[files]]
 file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
 hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
+
+[[files]]
+file = "config/brandon3055/contributors.json"
+hash = "4f08b094aff50d7ee939e43be012edc511b7f3400ea33e8b5db2284cd3616117"
 
 [[files]]
 file = "config/codechicken/supporters.json"
@@ -1182,7 +1186,7 @@ hash = "4e391cf531632b6b2aaedd7ff9bc444bf6250936134f343a251fabd3c4cf9900"
 
 [[files]]
 file = "config/splash.properties"
-hash = "19d517c5d06cbc2a6b3adab8b87926e537bc1a87388212a4f1cdec14c28fd714"
+hash = "0cd3c777b990f40255e57d7a82b9e6866137ca27dbd04201f0586700ee54cd01"
 
 [[files]]
 file = "config/toastcontrol.cfg"
@@ -1221,84 +1225,12 @@ file = "config/wailaharvestability.cfg"
 hash = "b28bf855210415faa693e655b82f5595292254b99a77a9d921d360ec8b9ee384"
 
 [[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "4ffba4ec814acc4fb64193990f2c797dff9d4d4c33813923f1a443fcc4da9e16"
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaero/world-map/client.cfg"
-hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
-
-[[files]]
-file = "config/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
-
-[[files]]
-file = "config/xaero/world-map/profiles/default.cfg"
-hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
-
-[[files]]
-file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
 file = "config/xaerohud.txt"
 hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
 
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "crash-reports/crash-2026-01-19_22.38.57-client.txt"
-hash = "0d7029d94560ccebe362e86904be72eb764b2373c10bf5dac2ffbc7e232840c8"
-
-[[files]]
-file = "crash-reports/crash-2026-01-19_22.39.58-client.txt"
-hash = "b46ac2f447c8de423e0a5226738635e0a2c93cda38a3cc650c0590f46cabca47"
-
-[[files]]
-file = "crash-reports/crash-2026-01-20_22.52.46-client.txt"
-hash = "de1a0d61f787b400a2cab52cce508c1e52611ebce98372a964122063f2a36ef6"
 
 [[files]]
 file = "icon.png"
@@ -1323,90 +1255,6 @@ hash = "ded42cb77d56ef9330e660b7793b9fd4a1efb682ea42ab11b894d4bf8af95d85"
 [[files]]
 file = "local/ftbutilities/ranks.txt"
 hash = "9e36506d19534d2bc4797527704e25f2f6e8527fc5638250c98af7ce04397f2e"
-
-[[files]]
-file = "logs/2026-01-19-1.log.gz"
-hash = "fa0b68b23cc29344d5ec40a72850cae501f778e0e23f4a69c13f08b4fbf4e299"
-
-[[files]]
-file = "logs/2026-01-19-2.log.gz"
-hash = "199b9b9ff057eb38be7143deb8805e39b41eda8b1d7fdfd0cffb48be198c30f7"
-
-[[files]]
-file = "logs/2026-01-19-3.log.gz"
-hash = "199cf1b3d3cdebef806e8752087e755ad529bc1c5abc31be13b81351bb4194da"
-
-[[files]]
-file = "logs/2026-01-19-4.log.gz"
-hash = "988eec94d0699e2dec9552808292a00918b835a3b99774ffb8f742db0905e0e8"
-
-[[files]]
-file = "logs/2026-01-19-5.log.gz"
-hash = "6308c4d50552db1fbf3cb813145025646f44856824856abc605383693d98dda9"
-
-[[files]]
-file = "logs/2026-01-19-6.log.gz"
-hash = "8d30bc9872dcd81eb15f916e411bcfd7e5bd3bc4a7f6f22aad79c2446668e91b"
-
-[[files]]
-file = "logs/2026-01-19-7.log.gz"
-hash = "6becccb32390a6a5b1fe5f280251b01c7876f435f1394b90a63331a6b8586020"
-
-[[files]]
-file = "logs/2026-01-20-1.log.gz"
-hash = "f0f41aea1a89034593ebcfb039cce0dc2db7660f59229a0fd5dfb661114619e2"
-
-[[files]]
-file = "logs/2026-01-20-2.log.gz"
-hash = "947572eae0412dbb620b9e8300c91e54742fa2c3be09e062122ac3d3768dceba"
-
-[[files]]
-file = "logs/2026-01-20-3.log.gz"
-hash = "e29aa1a34848dce5cc6eec1180959abae80e73af02894897c8d3d0171983ff4d"
-
-[[files]]
-file = "logs/2026-01-20-4.log.gz"
-hash = "94d312a2839c7a3c08c33293a3eba46335db823f507553c1f17f5439fb800c76"
-
-[[files]]
-file = "logs/2026-01-20-5.log.gz"
-hash = "cd09bdc683a8fe175500620567f2bb6579f0282b48787024ad90c91ccfbf07b8"
-
-[[files]]
-file = "logs/2026-01-20-6.log.gz"
-hash = "ce3b9b58726d85b6cd8b641ec0fa29e0e5f1eb9cd5acbcdc9af103c615e3eb97"
-
-[[files]]
-file = "logs/2026-01-20-7.log.gz"
-hash = "1aac3ef97c98b7e2a1ecb3d37563f9a95cf4891577b712b33db1659d18d473f4"
-
-[[files]]
-file = "logs/debug-1.log.gz"
-hash = "ade91b6120c70e4f78637417d109165c3a843ff0d39e75529af030258e52df5e"
-
-[[files]]
-file = "logs/debug-2.log.gz"
-hash = "072c879cf4e34c6989165423eafca2335106ae74f63341b950cb0d8ab5d27a68"
-
-[[files]]
-file = "logs/debug-3.log.gz"
-hash = "88ac1d22cf3a816dc6691a90b0c21df1af10a30c3b299b60109fa46f0ff794e5"
-
-[[files]]
-file = "logs/debug-4.log.gz"
-hash = "ae6d9714965561b99d8da5dde9b99feacdc7b8cef7785bf8ae3a39dcfe8450b1"
-
-[[files]]
-file = "logs/debug-5.log.gz"
-hash = "4a8b24e54f3d21a8e65cc2a24fb25ec5b49d53f00701ee41ddf20e6394f96303"
-
-[[files]]
-file = "logs/debug.log"
-hash = "26f1703b09c5d8a91f1fe29995a1b47e76dec99ff2a52489b765a76922cd499c"
-
-[[files]]
-file = "logs/latest.log"
-hash = "49397a0d1ff20d9ccba08a9ca0fa149419ebda1bc226ab4fb901d5b259fe51fa"
 
 [[files]]
 file = "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar"
@@ -1737,281 +1585,13 @@ file = "mods/zerocore-1.12.2-0.1.2.9.jar"
 hash = "fed0f20d19ed0c35f2b804a120419cfda398397e2aaa19e8494847b48c9ffb44"
 
 [[files]]
-file = "options.txt"
-hash = "20995d7d1ee6d642de51141822c9e59dab9b7e3494d0f2386b96f46fe778f308"
-
-[[files]]
-file = "optionsof.txt"
-hash = "ee8ec550872dc0a4de9b39a5907b1a6b6f527b605733aee989a170a5c0b7d764"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "ecfdff4a92a523e31b4e1edcf934c29a27b34e0bcf15906195485fec7cdabf7e"
+hash = "787edb2be662a30f094069228b127197220b67bce653ae04272cad6157600333"
 
 [[files]]
 file = "patchouli_data.json"
 hash = "0d1c565de683f0ed982a10730d439d900ea17193a3cb69934ee97ee2dbe9f80c"
-
-[[files]]
-file = "resourcepacks/Faithful32_MC1.12.2_v1.2.0.zip"
-hash = "03778f6d134e88ba5054456f053533b65ed65a093b99aa8ae677c90477350ca7"
-
-[[files]]
-file = "saves/New World/AE2/compass/0_0_-1024.dat"
-hash = "d5d046854537e2c132a48a0edf5e77975c6d18fc86a17e30d00cab3b7114885e"
-
-[[files]]
-file = "saves/New World/AE2/compass/0_0_0.dat"
-hash = "772f1ff9d6678fe4abca4ff0004e6e2e0b3d0ca27ea13c7a1f6216dcb2700484"
-
-[[files]]
-file = "saves/New World/AE2/settings.cfg"
-hash = "d467f4a5c35632c714ab841f4022a8b19aa62779bba98fd1c3792f9575c6e4a2"
-
-[[files]]
-file = "saves/New World/AE2/spawndata/0_0_-1.dat"
-hash = "dfbe607558ac6b09c9028c348db05d0b6c7a8f12fc9548e273a84a414763b225"
-
-[[files]]
-file = "saves/New World/AE2/spawndata/0_0_-2.dat"
-hash = "172a6968b27ee062395c641835861e73a4330b0565b4636ad61e4c792ba44512"
-
-[[files]]
-file = "saves/New World/AE2/spawndata/0_0_0.dat"
-hash = "26b00aff6d685234c2b492354efa290c9582068ec57ed4c6896b24403579a756"
-
-[[files]]
-file = "saves/New World/AE2/spawndata/0_1_-1.dat"
-hash = "bb8aeed88c142e8aa2381b81c28632d37dfb6eac3dff358098950dd48fc15612"
-
-[[files]]
-file = "saves/New World/AE2/spawndata/0_1_-2.dat"
-hash = "939138d7c20c5ca8a724c0732dcb21c2c5bdabb94b4a7e551a0acf63dd8dc13c"
-
-[[files]]
-file = "saves/New World/AE2/spawndata/0_1_0.dat"
-hash = "a542c163a3a6880c7ed3fc08afcf21fd9f6e1095d7cc9bb9d8bd82a4ff32f1f4"
-
-[[files]]
-file = "saves/New World/DIM-1/data/capabilities.dat"
-hash = "f682ae238fefa090ceeae6c68be883fc31605078dd031bad0e7927f5c389a8c2"
-
-[[files]]
-file = "saves/New World/DIM-1/data/villages_nether.dat"
-hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
-
-[[files]]
-file = "saves/New World/DIM-1/forcedchunks.dat"
-hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
-
-[[files]]
-file = "saves/New World/DIM1/data/capabilities.dat"
-hash = "f682ae238fefa090ceeae6c68be883fc31605078dd031bad0e7927f5c389a8c2"
-
-[[files]]
-file = "saves/New World/DIM1/data/villages_end.dat"
-hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
-
-[[files]]
-file = "saves/New World/DIM1/forcedchunks.dat"
-hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
-
-[[files]]
-file = "saves/New World/DIM2/data/capabilities.dat"
-hash = "7c796f3f8b32302d78b52ccfdb6a7cec00efe96ea610d96a8c7ceaf9aeb35695"
-
-[[files]]
-file = "saves/New World/DIM2/data/villages_cell.dat"
-hash = "9bb7297cef3276350fb33fac30d181b0845598f334f1f8886fe1983aa231b846"
-
-[[files]]
-file = "saves/New World/DIM2/forcedchunks.dat"
-hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
-
-[[files]]
-file = "saves/New World/DIM7/data/capabilities.dat"
-hash = "f682ae238fefa090ceeae6c68be883fc31605078dd031bad0e7927f5c389a8c2"
-
-[[files]]
-file = "saves/New World/DIM7/data/villages_twilightforest.dat"
-hash = "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d"
-
-[[files]]
-file = "saves/New World/DIM7/forcedchunks.dat"
-hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
-
-[[files]]
-file = "saves/New World/advancements/623cf0ed-fa6f-49a5-8eed-a203e7380132.json"
-hash = "0e3ec53c45356c5848e1d95d881da25dfc3436676b00c881ac0a1a3ba0313379"
-
-[[files]]
-file = "saves/New World/data/Mineshaft.dat"
-hash = "fd3edcef1500d24945c783d72f41dd15d2c62a0977b2bda776b2605eba04b8c8"
-
-[[files]]
-file = "saves/New World/data/PistonRelayPairs.dat"
-hash = "ece263c2d4292a78b928539ff4d5b1a4d6b7a043babda3fbdb74e1f669274972"
-
-[[files]]
-file = "saves/New World/data/capabilities.dat"
-hash = "f682ae238fefa090ceeae6c68be883fc31605078dd031bad0e7927f5c389a8c2"
-
-[[files]]
-file = "saves/New World/data/ftb_lib/players/mortalsin6.dat"
-hash = "53bb3ad28bbe26267440a49538c07438fe18b97fda993842b545207f93c90671"
-
-[[files]]
-file = "saves/New World/data/ftb_lib/teams/singleplayer.dat"
-hash = "041ab9c9f3638d6b5f459c851818ca2ee13bbda30aa493c9a2ed5c70cf26034f"
-
-[[files]]
-file = "saves/New World/data/ftb_lib/universe.dat"
-hash = "8013d07cf267112a1ea8db33aae3e36a72198b23a012fe89bcea95c21730eac8"
-
-[[files]]
-file = "saves/New World/data/villages.dat"
-hash = "9bb7297cef3276350fb33fac30d181b0845598f334f1f8886fe1983aa231b846"
-
-[[files]]
-file = "saves/New World/forcedchunks.dat"
-hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
-
-[[files]]
-file = "saves/New World/icon.png"
-hash = "2a6d1f3d6f00e6cebb7a18d01770589570cae85f39d50a4bec6386687f3eff2c"
-
-[[files]]
-file = "saves/New World/level.dat"
-hash = "95148285b472e64d8cac8f9288a2a2d79d7109fd73e6eccefe22fc2c75425ca2"
-
-[[files]]
-file = "saves/New World/level.dat_old"
-hash = "ce70409abc6476b4ad66efcd1863f0e3b613ed7fa2ab541e21f22f5fa35fd46e"
-
-[[files]]
-file = "saves/New World/playerdata/623cf0ed-fa6f-49a5-8eed-a203e7380132.dat"
-hash = "f4e10f1df30543861a9741453836e0921e57c8a472f6a496a37a9e9eabf2d960"
-
-[[files]]
-file = "saves/New World/region/r.0.-1.mca"
-hash = "6138a4ceb6278adae0c464594084cd05c0c0ae6832708bba3171441dfa3a1b9a"
-
-[[files]]
-file = "saves/New World/region/r.0.0.mca"
-hash = "22df7764c11164025e88a03a85bf218afa123c7fec3404ba24896af46cd918b3"
-
-[[files]]
-file = "saves/New World/session.lock"
-hash = "7eb81ada633ede8847221956ad6b3d204e91c162a3948f18e293e5af9a38f7ef"
-
-[[files]]
-file = "saves/New World/stats/623cf0ed-fa6f-49a5-8eed-a203e7380132.json"
-hash = "1bc844ed8c70190a8f9bd01153019265684ee64c112acdbb540bc5803f4fb356"
-
-[[files]]
-file = "saves/New World/xaeromap.txt"
-hash = "281d599d349e26e8d2d78af0a33af65bebffed31b60d770801b12e1d52873e39"
-
-[[files]]
-file = "servers.dat"
-hash = "91c8f583e258bfe6b0744d08f8b8fcfcf6908b159ae07555a35ba509d5f34ba5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
-hash = "5d2d564e0239b9db164a48da8e3b5397597a5a1899fa94d9abc93765522ae1e9"
-
-[[files]]
-file = "usercache.json"
-hash = "d6cc5fbb60e2fb61044023a1249052b123383e98a83da6e6619a185e2a86485e"
-
-[[files]]
-file = "usernamecache.json"
-hash = "6b9b17116bc190af6ba5f90231b216ae0b51cb520f129b6ab29abca0ffd0dfe1"
-
-[[files]]
-file = "xaero/minimap/Multiplayer_localhost/config.txt"
-hash = "c098ec521213c9046139c4ae761b58f22dc2ee3ab10abcdb151871be551a14a1"
-
-[[files]]
-file = "xaero/minimap/New World/config.txt"
-hash = "af0abb4601a9d7e370e8a7e2c6bc04d42208a1e131475906c3885493c30c1be6"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/dimension_config.txt"
-hash = "9b2bdf1f2b0e36552807e612ec9bb8cf6634d3287ac22aca6543b7e71efc8cd5"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/-1_-1.zip"
-hash = "536ef4f860a46e5c548a81cd96ff49c13fb0665254caa056afec182b94490595"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/-1_0.zip"
-hash = "68de424aab8b412e80e36aea986135d4cc3771eb250a46f510ec201733c05f26"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/-1_1.zip"
-hash = "b4c400ae7238a9238d81d9af620491c705309286d0002fb84f39af201a904ac3"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/0_-1.zip"
-hash = "00f527005fc3b2eac3ee860fe887e046d17276759117e481ecd668330f200080"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/0_0.zip"
-hash = "40fe0b4d9f5c3d598e8d6d891a53f74579aab432c5d429a48fa2f7cac79ad6c5"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/-1_-1.xwmc"
-hash = "8b36b625ed323bbe006e72919841f74dc371e7a2ae0d1baf54e21c15432ea624"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/-1_0.xwmc.outdated"
-hash = "7b06ff9fcc530ed6b759d205b825ea4199680217d4f95588f120f974a2e0ca8e"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/-1_1.xwmc.outdated"
-hash = "91c3cb254ee2f4b9ad9cc096db72c7f9fe56623ba9584aac0c4bb018e83a32f5"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/0_-1.xwmc"
-hash = "d0f99f5ce498bd57475965d15ea62b8b0e624c2493e2af54a50f6756a4f99088"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/0_0.xwmc"
-hash = "fc0768326137deec94de73a0783d5ca1d0aa295584f6f8a0a68733af2496f5a7"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_localhost/server_config.txt"
-hash = "27e512b622e3b07302d1c5700afc1681a5f330e65975b373c114b7378e39eba9"
-
-[[files]]
-file = "xaero/world-map/New World/null/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "xaero/world-map/New World/null/cache_1/0_-1.xwmc.outdated"
-hash = "2c7564c3160eee0c71ceec409be06f1edca60f34fc8859fbe9a4ca46385243c7"
-
-[[files]]
-file = "xaero/world-map/New World/null/cache_1/0_0.xwmc.outdated"
-hash = "0b8c317031d105e1008aca90d56f9fb4b354fabeae79e2a1e189002b6c649c9a"
-
-[[files]]
-file = "xaero/world-map/New World/null/dimension_config.txt"
-hash = "cc5bc4bd124a9820486a4271102445a3ac35e459a0f7a5b092c860e2c1481518"
-
-[[files]]
-file = "xaero/world-map/New World/server_config.txt"
-hash = "bd07cf5e7e8b15ea02b47a091c02971f44a6b3c1eac2ae9d8841715bae3f7671"
