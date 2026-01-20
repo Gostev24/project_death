@@ -1,0 +1,16 @@
+filename = 'AdvSolarPatch-1.2.1.jar'
+name = 'Advanced Solar Panels Patcher'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ecb07dc103c4d0fae4b289d20c42fe2056c13f6d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3401706
+project-id = 400399

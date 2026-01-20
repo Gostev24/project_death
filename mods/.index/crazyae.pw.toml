@@ -1,0 +1,16 @@
+filename = 'CrazyAE-1.12.2-v0.6.0.2.jar'
+name = 'Crazy AE'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '936a670c7b281ed629568906eb902d2c5f3f4b54'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6840104
+project-id = 1111042

@@ -1,0 +1,16 @@
+filename = 'GraviSuite-Patcher-1.0.0.jar'
+name = 'Gravitation Suite Patcher'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a71b1187dbb4ece0efc26d66f29668cee82e514'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3380349
+project-id = 501574

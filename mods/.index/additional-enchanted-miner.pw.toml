@@ -1,0 +1,16 @@
+filename = 'AdditionalEnchantedMiner-1.12.2-12.5.7.jar'
+name = 'Additional Enchanted Miner'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb4da9e71281f29c0e1e056da5f3a698e9d0894d8ae2abca9ac8d6c1de1aa7105c1b36af47b88b23ce228abd222c7f7d4a73ffd79862dfe4cbe05477ec994753'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jhxX1zVW/versions/kp5ymDWS/AdditionalEnchantedMiner-1.12.2-12.5.7.jar'
+
+[update.modrinth]
+mod-id = 'jhxX1zVW'
+version = 'kp5ymDWS'

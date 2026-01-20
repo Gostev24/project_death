@@ -1,0 +1,16 @@
+filename = 'PhosphorCrashFix-1.12.2-1.0.0.jar'
+name = 'Phosphor Crash Fix'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b5b17501af82828e106617b6f1694088f426494b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4183001
+project-id = 739808
