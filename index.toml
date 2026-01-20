@@ -22,7 +22,7 @@ hash = "7fe7edfd1c789837ef4a641cfac41cce47d9930c86a3dc07e466148582f272c9"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "5a913d87bc196bd463e863dfab05d4a04552d3e552c3eab8693cfe73f4adba8c"
+hash = "a7a124a2af46bb867135d45443c74f55552b3583626ee6e09afcdcd6b031a73b"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -38,7 +38,7 @@ hash = "084c47bcad238ec01bf9e9fe515781d62cb5a6323ea363139c1ec72113700c25"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "60da399c5878eebbed25733ae869ab9c2c4f4a9b6d4247202bd0741981dfbc95"
+hash = "94224d6658e52972bf5785caad9dba803f15056d012f74d4c0ec3b7544894208"
 
 [[files]]
 file = "config/Extreme Reactors/Extreme Reactors.cfg"
@@ -46,11 +46,11 @@ hash = "2f3a280af647139ec5a4d90dee38d862eabe438cc4937a704d5e8fe54455e3cc"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "a1424b35cb2f64e42ddd7d38c32247d051844892e7f309471befae002f605eac"
+hash = "6af820acbbe54878dcad1b2707deadd1cc4308c92d2bd6a61998b21f1632540c"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
-hash = "e39970c15108fa70d6d3e0a540001b1db4f6c8fd015354241a0eb45f6823d9e9"
+hash = "07ff0a97336a4881295fffe83b27d993e709895c0dee506622d8225e5a96c63a"
 
 [[files]]
 file = "config/InvTweaks/InvTweaksRules.txt"
@@ -66,7 +66,7 @@ hash = "31ae7c835eb7771ce79cda4fadfe7d80b2858177bbbf250822695b39ae091f5d"
 
 [[files]]
 file = "config/InventoryHUD/baubles.json"
-hash = "9ac630fc0a5336fd3d9db4b5e46729a9f3706214aacb82cd321f891494f65079"
+hash = "bd48256458bfe3691a43be2e092ee78ec06f4d27d1c66cb15f235b41b36bddda"
 
 [[files]]
 file = "config/JustEnoughCharacters.cfg"
@@ -569,10 +569,6 @@ file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
 hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
 
 [[files]]
-file = "config/brandon3055/contributors.json"
-hash = "4f08b094aff50d7ee939e43be012edc511b7f3400ea33e8b5db2284cd3616117"
-
-[[files]]
 file = "config/codechicken/supporters.json"
 hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
 
@@ -690,7 +686,7 @@ hash = "68a11be19873903764ec0b5e84214965babb1d24770f9ad1f5e3d5586d65478c"
 
 [[files]]
 file = "config/dynamiclights_entityclasses.cfg"
-hash = "88118a7e925caca56d59cca5addcd36947ff8485414d35626344875e35e55116"
+hash = "08f3fc7223907f8a4c8dddcaabf6a062e692ce05dc06b20b72e6551a9241638f"
 
 [[files]]
 file = "config/dynamiclights_floodlights.cfg"
@@ -1026,7 +1022,7 @@ hash = "ec92ba604baca7fcfed9e28464134e952bbd5acc1bfcaf5c1cb9308604a7d6e9"
 
 [[files]]
 file = "config/inventoryhud.cfg"
-hash = "2bbaac7cd7cef07db2378dbb9422892b9d131ca80fa96f4489d73f72f1afffc8"
+hash = "5827280ceb757bc59068cba000286571515f4184abf284944d5d8d0cba2f3da2"
 
 [[files]]
 file = "config/ironchest.cfg"
@@ -1038,7 +1034,7 @@ hash = "4faf1045129337a2d179f5a5126ba6d6708c09ee66dbf8261776ee60f645d34d"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "775d705da1464a9d81e8dc7125a4b73300c97d9a2694e379843b62a3666b65ee"
+hash = "472023b01e6b31889b5f8eef753ae90267dd45e48e69280ad661136abe928a77"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -1186,7 +1182,7 @@ hash = "4e391cf531632b6b2aaedd7ff9bc444bf6250936134f343a251fabd3c4cf9900"
 
 [[files]]
 file = "config/splash.properties"
-hash = "0cd3c777b990f40255e57d7a82b9e6866137ca27dbd04201f0586700ee54cd01"
+hash = "ec0277bdd46e5cdfb66b91ea4171370ba7a6cbff1f22dcad0fbdc24a8fefacad"
 
 [[files]]
 file = "config/toastcontrol.cfg"
@@ -1207,6 +1203,14 @@ hash = "521e8d70aab1ddc5de3df5a94884cc1691ae6cd3a6f65c6b6969e2aba523fa2f"
 [[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "734187b34531e04403ae0912b21e198cd446a9d4d382fd91c7efd0f547ae139e"
+
+[[files]]
+file = "config/usefulbackpacks.cfg"
+hash = "3ea0bbcae31021cb03761f88225fd6906a91713b522bec5d290c61c089b03c64"
+
+[[files]]
+file = "config/uteamcore/client.cfg"
+hash = "a9a0c69fbb265f0072376e0b5a5a514425ba0f4dbf583bc0c518638f905a0d28"
 
 [[files]]
 file = "config/waila/theme/dark.json"
@@ -1569,6 +1573,14 @@ file = "mods/twilightforest-1.12.2-3.11.1021-universal.jar"
 hash = "e1cee0a1e8f4aaedbd4381308fe6f32a6f69935e7bfb0df0748c2b292fb821ce"
 
 [[files]]
+file = "mods/u_team_core-forge-1.12.2-2.2.5.375.jar"
+hash = "92d27852bd081fc9cd2d95172cbf4473fa697653f6236bb3f5779eef60960ad4"
+
+[[files]]
+file = "mods/useful_backpacks-1.12.2-1.5.4.85.jar"
+hash = "ff231e76e4f5263cdb5b6aa825fb428c72fc6d39841ff9a19736a163e025e448"
+
+[[files]]
 file = "mods/xaerolib-forge-1.12-1.0.44.jar"
 hash = "f5d4bc84d68a3663cad8317d48ea28f5bdf75cdc24398a738531447e6204c8f0"
 
@@ -1590,7 +1602,7 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "787edb2be662a30f094069228b127197220b67bce653ae04272cad6157600333"
+hash = "4019dce62a23ec56a36ef1e64f1ae9567281bc8314f5a1ccc8f3d2ef394bdc11"
 
 [[files]]
 file = "patchouli_data.json"
