@@ -1417,11 +1417,6 @@ file = "mods/!mixinbooter-10.7.jar"
 hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
 
 [[files]]
-file = "mods/.index/randompatches-forge.pw.toml"
-hash = "088befd539695b962473d83bee4ce493fd820a0ce6f9ac5d531284f3e14a1707"
-metafile = true
-
-[[files]]
 file = "mods/AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar"
 hash = "0e898bf22d923889986e70705351601c4f8b98f6ef917b1644082067008b2310"
 
