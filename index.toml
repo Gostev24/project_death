@@ -22,7 +22,7 @@ hash = "7fe7edfd1c789837ef4a641cfac41cce47d9930c86a3dc07e466148582f272c9"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "230a2a478e21667cff13a206f6b6e6573f56a97d060f3ea36e44fb160a663196"
+hash = "5a913d87bc196bd463e863dfab05d4a04552d3e552c3eab8693cfe73f4adba8c"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -30,7 +30,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "51d656268e4dd0f5c3a50a6522ae966a3554b86ba9c52fa4575400813ed73432"
+hash = "1bdaff3603afc03e39e9dd990d9ef2b624c5682b6524a325d7bef9c8190b64bc"
 
 [[files]]
 file = "config/AppliedEnergistics2/extracells.cfg"
@@ -38,7 +38,7 @@ hash = "084c47bcad238ec01bf9e9fe515781d62cb5a6323ea363139c1ec72113700c25"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "e8ddb56cd42b5ce7961856f71ed7e5e06342b2ffaed6aa71da92d98a8a4d09eb"
+hash = "60da399c5878eebbed25733ae869ab9c2c4f4a9b6d4247202bd0741981dfbc95"
 
 [[files]]
 file = "config/Extreme Reactors/Extreme Reactors.cfg"
@@ -46,11 +46,11 @@ hash = "2f3a280af647139ec5a4d90dee38d862eabe438cc4937a704d5e8fe54455e3cc"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "84d2faef0430fac7198ca1938b58d2dd75e59a2747f3c8f8e018c7d97bd16fcd"
+hash = "fc893f2524c84620d82385fdcd7a32d45503e637b83a92474911bcd6f6599882"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
-hash = "5db314b4d54ef35743f292280f5ef30d8ce61aa717d6dbf7f26a6e4fa3f8f6aa"
+hash = "6e8b4be0e0386e8c52c632ee41b0f208fd7f4a4299ed19a866176fc8905f4afe"
 
 [[files]]
 file = "config/InvTweaks/InvTweaksRules.txt"
@@ -570,7 +570,7 @@ hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
 
 [[files]]
 file = "config/codechicken/supporters.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
 
 [[files]]
 file = "config/codechicken/supporters.marker"
@@ -686,7 +686,7 @@ hash = "68a11be19873903764ec0b5e84214965babb1d24770f9ad1f5e3d5586d65478c"
 
 [[files]]
 file = "config/dynamiclights_entityclasses.cfg"
-hash = "7e307a2d715a52145393fb5b7036ef29a9eb3074dda7d7483d84c5ac8cd4f924"
+hash = "bd073fd00d5d3fef7babec4c49333a651562f7c9645d64be81072d11815806b7"
 
 [[files]]
 file = "config/dynamiclights_floodlights.cfg"
@@ -1173,12 +1173,16 @@ file = "config/quarryplus/quarryplus_noDigBlocks.json"
 hash = "826b5a61ebc69824d0a8804e5050292b5db80a51bec1bbfb52c288fbeb568a7f"
 
 [[files]]
+file = "config/randompatches.cfg"
+hash = "6c7a009446aec73137e8e7e3d120379826bf36835af6dfdad081fc75b928ee15"
+
+[[files]]
 file = "config/smoothfont/smoothfont.cfg"
-hash = "b0c318d580094dbcc536d859b3efac174f42b9b43813d453d6075f6d9c1e947e"
+hash = "4e391cf531632b6b2aaedd7ff9bc444bf6250936134f343a251fabd3c4cf9900"
 
 [[files]]
 file = "config/splash.properties"
-hash = "c6aeca509eb58b8971e2f3e647c12b17969b8f805db47dd9dd5d1d7d3b278f26"
+hash = "97333190b139f9ef3c87b0b298e5556e281e53cdef2d01e8d448c0c6ec940a0a"
 
 [[files]]
 file = "config/toastcontrol.cfg"
@@ -1293,8 +1297,12 @@ file = "crash-reports/crash-2026-01-19_22.39.58-client.txt"
 hash = "b46ac2f447c8de423e0a5226738635e0a2c93cda38a3cc650c0590f46cabca47"
 
 [[files]]
+file = "crash-reports/crash-2026-01-20_22.52.46-client.txt"
+hash = "de1a0d61f787b400a2cab52cce508c1e52611ebce98372a964122063f2a36ef6"
+
+[[files]]
 file = "icon.png"
-hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
+hash = "efa8231590fa2761ccb801a8b197c630a2e93bb5d230feed1510a0d112f01864"
 
 [[files]]
 file = "local/client/ftblib.cfg"
@@ -1357,32 +1365,44 @@ file = "logs/2026-01-20-3.log.gz"
 hash = "947572eae0412dbb620b9e8300c91e54742fa2c3be09e062122ac3d3768dceba"
 
 [[files]]
+file = "logs/2026-01-20-4.log.gz"
+hash = "e29aa1a34848dce5cc6eec1180959abae80e73af02894897c8d3d0171983ff4d"
+
+[[files]]
+file = "logs/2026-01-20-5.log.gz"
+hash = "94d312a2839c7a3c08c33293a3eba46335db823f507553c1f17f5439fb800c76"
+
+[[files]]
+file = "logs/2026-01-20-6.log.gz"
+hash = "cd09bdc683a8fe175500620567f2bb6579f0282b48787024ad90c91ccfbf07b8"
+
+[[files]]
 file = "logs/debug-1.log.gz"
-hash = "ae76448523c96bbe8ae41686d0e195d847b1c98d4f323645dc8f36a487bbc8dd"
+hash = "88ac1d22cf3a816dc6691a90b0c21df1af10a30c3b299b60109fa46f0ff794e5"
 
 [[files]]
 file = "logs/debug-2.log.gz"
-hash = "03626a645f2bff7796d7534097bf1cd91d577561fee48e22174cef46607f735b"
+hash = "ae6d9714965561b99d8da5dde9b99feacdc7b8cef7785bf8ae3a39dcfe8450b1"
 
 [[files]]
 file = "logs/debug-3.log.gz"
-hash = "5e3d51e255b644dfbb44cb4a9b0ac2cc9bf61e9e3831601315597a87d177dba2"
+hash = "4a8b24e54f3d21a8e65cc2a24fb25ec5b49d53f00701ee41ddf20e6394f96303"
 
 [[files]]
 file = "logs/debug-4.log.gz"
-hash = "23e8c821b235212d57c39e9c74fb78f3d0f286adb9f48edd248861e83f5cc951"
+hash = "ae76448523c96bbe8ae41686d0e195d847b1c98d4f323645dc8f36a487bbc8dd"
 
 [[files]]
 file = "logs/debug-5.log.gz"
-hash = "1cfd2fcc2e5c8e729a8cd6dddf0a231e16be6b332370e7d0cb1e96e87211e073"
+hash = "03626a645f2bff7796d7534097bf1cd91d577561fee48e22174cef46607f735b"
 
 [[files]]
 file = "logs/debug.log"
-hash = "d2f4796c29b621007723e3d5908702c6dea34dcd0bb689adbd1eac6875218876"
+hash = "6bf297a7f1543d4251450a678802dc9c75418eedc7bbf1b65c36dbf4d0ada83b"
 
 [[files]]
 file = "logs/latest.log"
-hash = "14869c8a29907c11337ad8a6d56b61d8735f8add7226b2a3eaa0be833cd211f7"
+hash = "bd9e49ee18d6a110889904bb045f1a37dc1ce25dff7d5754c095cd721d6020e6"
 
 [[files]]
 file = "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar"
@@ -1395,6 +1415,11 @@ hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
 [[files]]
 file = "mods/!mixinbooter-10.7.jar"
 hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
+
+[[files]]
+file = "mods/.index/randompatches-forge.pw.toml"
+hash = "088befd539695b962473d83bee4ce493fd820a0ce6f9ac5d531284f3e14a1707"
+metafile = true
 
 [[files]]
 file = "mods/AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar"
@@ -1689,6 +1714,10 @@ file = "mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar"
 hash = "4ddfdeca30c2809047f8dec84c7fb49b820e930fbe1657d90404e64c78184228"
 
 [[files]]
+file = "mods/randompatches-1.12.2-1.22.1.10.jar"
+hash = "c6d836b4d14223999afcd9df143076a5a709ff2009d6604382c346d1a258284b"
+
+[[files]]
 file = "mods/twilightforest-1.12.2-3.11.1021-universal.jar"
 hash = "e1cee0a1e8f4aaedbd4381308fe6f32a6f69935e7bfb0df0748c2b292fb821ce"
 
@@ -1717,16 +1746,16 @@ file = "optionsof.txt"
 hash = "ee8ec550872dc0a4de9b39a5907b1a6b6f527b605733aee989a170a5c0b7d764"
 
 [[files]]
-file = "optionsshaders.txt"
-hash = "e9b5d4cdfa250d02b8daf227a400ea6ab85979bb93d0475b790c528046c87fc0"
-
-[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "49efdd8d73c5e3d4a679d377b93765aff2cfb52c8a2d92d093ce81716dd97520"
 
 [[files]]
 file = "patchouli_data.json"
@@ -1922,23 +1951,31 @@ hash = "9b2bdf1f2b0e36552807e612ec9bb8cf6634d3287ac22aca6543b7e71efc8cd5"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_localhost/null/mw$default/-1_0.zip"
-hash = "47f64b8bf242567c5685ea889ac84faadc846ea1dfcebfe01d5849c40efa33a7"
+hash = "897299c05c82c994b857787953b3c219a2a089a6783105f52457d64c9136c27b"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_localhost/null/mw$default/.lock"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "xaero/world-map/Multiplayer_localhost/null/mw$default/0_-1.zip"
+hash = "91fb1509d0646ed3959567a3d198766311d334d76535d80b3b7334e796489b23"
+
+[[files]]
 file = "xaero/world-map/Multiplayer_localhost/null/mw$default/0_0.zip"
-hash = "99699497b4e35bd3309099a50346aec0750aaa0c55ede9725de64fc552671ece"
+hash = "7c1c7cab43ca96b7de0e99de13ba940198c8d88381295d045a864ab7f1a9f1ea"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/-1_0.xwmc.outdated"
-hash = "adbdb402df194b3f33a0131ef9e3d3b4f999d3bd9a7cec65582dda844741e85d"
+hash = "ee912a813d88d1e62e9bc6044d97f3f633c5709e8d80a3e40c7223be26c0478a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/0_-1.xwmc.outdated"
+hash = "fd98703b3d6ec933351dd108ae24bd02029e5869818cbe99489f7414f8d19116"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_localhost/null/mw$default/cache_1/0_0.xwmc.outdated"
-hash = "e546c51d4d6fb64f80f8cdbdf3e72f2d08acaa67fcd14de51095ac6a2753e808"
+hash = "5e3542d985175cd53936711090869b4d89fc7139b75a0a209d59ed085642a399"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_localhost/server_config.txt"

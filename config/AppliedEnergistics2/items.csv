@@ -5420,6 +5420,169 @@ enderio:block_advanced_power_monitor, Графический индикатор 
 ae2wtlib:infinity_booster_card, Infinity Booster Card
 ae2wtlib:wut, Wireless Ultimate Terminal
 ae2wtlib:wut_creative, Creative Wireless Ultimate Terminal
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, Плита из жизнедерева
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, Плита из досок жизнедерева
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, Плита из жизнекамня
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, Плита из кирпича жизнекамня
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, Плита из древесины мечтаний
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, Плита из досок мечтаний
+botania:quartztypedark:0, Блок дымного кварца
+botania:quartztypedark:1, Резной блок дымного кварца
+botania:quartztypedark:2, Колонна из дымного кварца
+botania:quartzslabdarkhalf:0, Плита из дымного кварца
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, Блок манакварца
+botania:quartztypemana:1, Резной блок манакварца
+botania:quartztypemana:2, Колонна из манакварца
+botania:quartzslabmanahalf:0, Плита из манакварца
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, Блок пламенного кварца
+botania:quartztypeblaze:1, Резной блок пламенного кварца
+botania:quartztypeblaze:2, Колонна из пламенного кварца
+botania:quartzslabblazehalf:0, Плита из пламенного кварца
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, Блок лавандового кварца
+botania:quartztypelavender:1, Резной блок лавандового кварца
+botania:quartztypelavender:2, Колонна из лавандового кварца
+botania:quartzslablavenderhalf:0, Плита из лавандового кварца
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, Блок красного кварца
+botania:quartztypered:1, Резной блок красного кварца
+botania:quartztypered:2, Колонна из красного кварца
+botania:quartzslabredhalf:0, Плита из красного кварца
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, Блок эльфийского кварца
+botania:quartztypeelf:1, Резной блок эльфийского кварца
+botania:quartztypeelf:2, Колонна из эльфийского кварца
+botania:quartzslabelfhalf:0, Плита из эльфийского кварца
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, Блок солнечного кварца
+botania:quartztypesunny:1, Резной блок солнечного кварца
+botania:quartztypesunny:2, Колонна из солнечного кварца
+botania:quartzslabsunnyhalf:0, Плита из солнечного кварца
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, Метаморфический лесной камень
+botania:biomestonea:1, Метаморфический луговой камень
+botania:biomestonea:2, Метаморфический горный камень
+botania:biomestonea:3, Метаморфический грибной камень
+botania:biomestonea:4, Метаморфический болотный камень
+botania:biomestonea:5, Метаморфический пустынный камень
+botania:biomestonea:6, Метаморфический таёжный камень
+botania:biomestonea:7, Метаморфический холмистый камень
+botania:biomestonea:8, Метаморфический лесной булыжник
+botania:biomestonea:9, Метаморфический луговой булыжник
+botania:biomestonea:10, Метаморфический горный булыжник
+botania:biomestonea:11, Метаморфический грибной булыжник
+botania:biomestonea:12, Метаморфический болотный булыжник
+botania:biomestonea:13, Метаморфический пустынный булыжник
+botania:biomestonea:14, Метаморфический таёжный булыжник
+botania:biomestonea:15, Метаморфический холмистый булыжник
+botania:biomestoneb:0, Метаморфические лесные кирпичи
+botania:biomestoneb:1, Метаморфические луговые кирпичи
+botania:biomestoneb:2, Метаморфические горные кирпичи
+botania:biomestoneb:3, Метаморфические грибные кирпичи
+botania:biomestoneb:4, Метаморфические болотные кирпичи
+botania:biomestoneb:5, Метаморфические пустынные кирпичи
+botania:biomestoneb:6, Метаморфические таёжные кирпичи
+botania:biomestoneb:7, Метаморфические холмистые кирпичи
+botania:biomestoneb:8, Резной Метаморфический лесной кирпич
+botania:biomestoneb:9, Резной Метаморфический луговой кирпич
+botania:biomestoneb:10, Резной Метаморфический горный кирпич
+botania:biomestoneb:11, Резной Метаморфический грибной кирпич
+botania:biomestoneb:12, Резной Метаморфический болотный кирпич
+botania:biomestoneb:13, Резной Метаморфический пустынный кирпич
+botania:biomestoneb:14, Резной Метаморфический таёжный кирпич
+botania:biomestoneb:15, Резной Метаморфический холмистый кирпич
+botania:pavement:0, Белая португальская плитка
+botania:pavement:1, Чёрная португальская плитка
+botania:pavement:2, Синяя португальская плитка
+botania:pavement:3, Красная португальская плитка
+botania:pavement:4, Жёлтая португальская плитка
+botania:pavement:5, Зелёная португальская плитка
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, Метаморфическая лесная каменная плита
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, Метаморфическая луговая каменная плита
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, Метаморфическая горная каменная плита
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, Метаморфическая грибная каменная плита
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, Метаморфическая болотная каменная плита
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, Метаморфическая пустынная каменная плита
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, Метаморфическая таёжная каменная плита
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, Метаморфическая холмистая каменная плита
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, Метаморфическая лесная булыжниковая плита
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, Метаморфическая луговая булыжниковая плита
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, Метаморфическая горная булыжниковая плита
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, Метаморфическая грибная булыжниковая плита
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, Метаморфическая болотная булыжниковая плита
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, Метаморфическая пустынная булыжниковая плита
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, Метаморфическая таёжная булыжниковая плита
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, Метаморфическая холмистая булыжниковая плита
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, Метаморфическая лесная кирпичная плита
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, Метаморфическая луговая кирпичная плита
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, Метаморфическая горная кирпичная плита
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, Метаморфическая грибная кирпичная плита
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, Метаморфическая болотная кирпичная плита
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, Метаморфическая пустынная кирпичная плита
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, Метаморфическая таёжная кирпичная плита
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, Метаморфическая холмистая кирпичная плита
+botania:biomestonea0wall:0, Забор из метаморфического лесного булыжника
+botania:biomestonea0wall:1, Забор из метаморфического лугового булыжника
+botania:biomestonea0wall:2, Забор из метаморфического горного булыжника
+botania:biomestonea0wall:3, Забор из метаморфического грибного булыжника
+botania:biomestonea0wall:4, Забор из метаморфического болотного булыжника
+botania:biomestonea0wall:5, Забор из метаморфического пустынного булыжника
+botania:biomestonea0wall:6, Забор из метаморфического таёжного булыжника
+botania:biomestonea0wall:7, Забор из метаморфического холмистого булыжника
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, Плита из белой португальской плитки
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, Плита из чёрной португальской плитки
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, Плита из синей португальской плитки
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, Плита из красной португальской плитки
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, Плита из жёлтой португальской плитки
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, Плита из зелёной португальской плитки
+botania:shimmerrock0slab:0, Плита из мерцающего камня
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, Плита из мерцающих досок
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
 botania:lexicon, item.lexicon.name
 botania:petal:0, Мистический белый лепесток
 botania:petal:1, Мистический оранжевый лепесток
@@ -5755,169 +5918,6 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, Плита из жизнедерева
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, Плита из досок жизнедерева
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, Плита из жизнекамня
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, Плита из кирпича жизнекамня
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, Плита из древесины мечтаний
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, Плита из досок мечтаний
-botania:quartztypedark:0, Блок дымного кварца
-botania:quartztypedark:1, Резной блок дымного кварца
-botania:quartztypedark:2, Колонна из дымного кварца
-botania:quartzslabdarkhalf:0, Плита из дымного кварца
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, Блок манакварца
-botania:quartztypemana:1, Резной блок манакварца
-botania:quartztypemana:2, Колонна из манакварца
-botania:quartzslabmanahalf:0, Плита из манакварца
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, Блок пламенного кварца
-botania:quartztypeblaze:1, Резной блок пламенного кварца
-botania:quartztypeblaze:2, Колонна из пламенного кварца
-botania:quartzslabblazehalf:0, Плита из пламенного кварца
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, Блок лавандового кварца
-botania:quartztypelavender:1, Резной блок лавандового кварца
-botania:quartztypelavender:2, Колонна из лавандового кварца
-botania:quartzslablavenderhalf:0, Плита из лавандового кварца
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, Блок красного кварца
-botania:quartztypered:1, Резной блок красного кварца
-botania:quartztypered:2, Колонна из красного кварца
-botania:quartzslabredhalf:0, Плита из красного кварца
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, Блок эльфийского кварца
-botania:quartztypeelf:1, Резной блок эльфийского кварца
-botania:quartztypeelf:2, Колонна из эльфийского кварца
-botania:quartzslabelfhalf:0, Плита из эльфийского кварца
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, Блок солнечного кварца
-botania:quartztypesunny:1, Резной блок солнечного кварца
-botania:quartztypesunny:2, Колонна из солнечного кварца
-botania:quartzslabsunnyhalf:0, Плита из солнечного кварца
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, Метаморфический лесной камень
-botania:biomestonea:1, Метаморфический луговой камень
-botania:biomestonea:2, Метаморфический горный камень
-botania:biomestonea:3, Метаморфический грибной камень
-botania:biomestonea:4, Метаморфический болотный камень
-botania:biomestonea:5, Метаморфический пустынный камень
-botania:biomestonea:6, Метаморфический таёжный камень
-botania:biomestonea:7, Метаморфический холмистый камень
-botania:biomestonea:8, Метаморфический лесной булыжник
-botania:biomestonea:9, Метаморфический луговой булыжник
-botania:biomestonea:10, Метаморфический горный булыжник
-botania:biomestonea:11, Метаморфический грибной булыжник
-botania:biomestonea:12, Метаморфический болотный булыжник
-botania:biomestonea:13, Метаморфический пустынный булыжник
-botania:biomestonea:14, Метаморфический таёжный булыжник
-botania:biomestonea:15, Метаморфический холмистый булыжник
-botania:biomestoneb:0, Метаморфические лесные кирпичи
-botania:biomestoneb:1, Метаморфические луговые кирпичи
-botania:biomestoneb:2, Метаморфические горные кирпичи
-botania:biomestoneb:3, Метаморфические грибные кирпичи
-botania:biomestoneb:4, Метаморфические болотные кирпичи
-botania:biomestoneb:5, Метаморфические пустынные кирпичи
-botania:biomestoneb:6, Метаморфические таёжные кирпичи
-botania:biomestoneb:7, Метаморфические холмистые кирпичи
-botania:biomestoneb:8, Резной Метаморфический лесной кирпич
-botania:biomestoneb:9, Резной Метаморфический луговой кирпич
-botania:biomestoneb:10, Резной Метаморфический горный кирпич
-botania:biomestoneb:11, Резной Метаморфический грибной кирпич
-botania:biomestoneb:12, Резной Метаморфический болотный кирпич
-botania:biomestoneb:13, Резной Метаморфический пустынный кирпич
-botania:biomestoneb:14, Резной Метаморфический таёжный кирпич
-botania:biomestoneb:15, Резной Метаморфический холмистый кирпич
-botania:pavement:0, Белая португальская плитка
-botania:pavement:1, Чёрная португальская плитка
-botania:pavement:2, Синяя португальская плитка
-botania:pavement:3, Красная португальская плитка
-botania:pavement:4, Жёлтая португальская плитка
-botania:pavement:5, Зелёная португальская плитка
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, Метаморфическая лесная каменная плита
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, Метаморфическая луговая каменная плита
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, Метаморфическая горная каменная плита
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, Метаморфическая грибная каменная плита
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, Метаморфическая болотная каменная плита
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, Метаморфическая пустынная каменная плита
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, Метаморфическая таёжная каменная плита
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, Метаморфическая холмистая каменная плита
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, Метаморфическая лесная булыжниковая плита
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, Метаморфическая луговая булыжниковая плита
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, Метаморфическая горная булыжниковая плита
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, Метаморфическая грибная булыжниковая плита
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, Метаморфическая болотная булыжниковая плита
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, Метаморфическая пустынная булыжниковая плита
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, Метаморфическая таёжная булыжниковая плита
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, Метаморфическая холмистая булыжниковая плита
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, Метаморфическая лесная кирпичная плита
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, Метаморфическая луговая кирпичная плита
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, Метаморфическая горная кирпичная плита
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, Метаморфическая грибная кирпичная плита
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, Метаморфическая болотная кирпичная плита
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, Метаморфическая пустынная кирпичная плита
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, Метаморфическая таёжная кирпичная плита
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, Метаморфическая холмистая кирпичная плита
-botania:biomestonea0wall:0, Забор из метаморфического лесного булыжника
-botania:biomestonea0wall:1, Забор из метаморфического лугового булыжника
-botania:biomestonea0wall:2, Забор из метаморфического горного булыжника
-botania:biomestonea0wall:3, Забор из метаморфического грибного булыжника
-botania:biomestonea0wall:4, Забор из метаморфического болотного булыжника
-botania:biomestonea0wall:5, Забор из метаморфического пустынного булыжника
-botania:biomestonea0wall:6, Забор из метаморфического таёжного булыжника
-botania:biomestonea0wall:7, Забор из метаморфического холмистого булыжника
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, Плита из белой португальской плитки
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, Плита из чёрной португальской плитки
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, Плита из синей португальской плитки
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, Плита из красной португальской плитки
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, Плита из жёлтой португальской плитки
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, Плита из зелёной португальской плитки
-botania:shimmerrock0slab:0, Плита из мерцающего камня
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, Плита из мерцающих досок
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
 botania:flower:0, Мистический белый цветок
 botania:flower:1, Мистический оранжевый цветок
 botania:flower:2, Мистический пурпурный цветок
@@ -6339,6 +6339,24 @@ bigreactors:reactorcomputerport, Компьютерный порт реакто�
 bigreactors:reactorglass, Реакторное стекло (наследие)
 bigreactors:reactorcontrolrod, Реакторный контролирующий стержень (наследие)
 bigreactors:reactorfuelrod, Реакторный топливный стержень (наследие)
+ironchest:iron_gold_chest_upgrade, Улучшение из железного в золотой сундук
+ironchest:gold_diamond_chest_upgrade, Улучшение из золотого в алмазный сундук
+ironchest:copper_silver_chest_upgrade, Улучшение из медного в серебряный сундук
+ironchest:silver_gold_chest_upgrade, Улучшение из серебряного в золотой сундук
+ironchest:copper_iron_chest_upgrade, Улучшение из медного в железный сундук
+ironchest:diamond_crystal_chest_upgrade, Улучшение из алмазного в кристальный сундук
+ironchest:wood_iron_chest_upgrade, Улучшение из деревянного в железный сундук
+ironchest:wood_copper_chest_upgrade, Улучшение из деревянного в медный сундук
+ironchest:diamond_obsidian_chest_upgrade, Улучшение из алмазного в обсидиановый сундук
+ironchest:iron_gold_shulker_upgrade, Улучшение из железного в золотой Шалкеровый ящик
+ironchest:gold_diamond_shulker_upgrade, Улучшение из золотого в алмазный Шалкеровый ящик
+ironchest:copper_silver_shulker_upgrade, Улучшение из медного в серебряный Шалкеровый ящик
+ironchest:silver_gold_shulker_upgrade, Улучшение из серебряного в золотой Шалкеровый ящик
+ironchest:copper_iron_shulker_upgrade, Улучшение из медного в железный Шалкеровый ящик
+ironchest:diamond_crystal_shulker_upgrade, Улучшение из алмазного в кристальный Шалкеровый ящик
+ironchest:vanilla_iron_shulker_upgrade, Улучшение из обычного в железный Шалкеровый ящик
+ironchest:vanilla_copper_shulker_upgrade, Улучшение из обычного в медный Шалкеровый ящик
+ironchest:diamond_obsidian_shulker_upgrade, Улучшение из алмазного в обсидиановый Шалкеровый ящик
 ironchest:iron_chest:0, Железный сундук
 ironchest:iron_chest:1, Золотой сундук
 ironchest:iron_chest:2, Алмазный сундук
@@ -6459,24 +6477,6 @@ ironchest:iron_shulker_box_black:3, Чёрный Медный Шалкеровы
 ironchest:iron_shulker_box_black:4, Чёрный Серебряный Шалкеровый ящик
 ironchest:iron_shulker_box_black:5, Чёрный Кристальный Шалкеровый ящик
 ironchest:iron_shulker_box_black:6, Чёрный Обсидиановый Шалкеровый ящик
-ironchest:iron_gold_chest_upgrade, Улучшение из железного в золотой сундук
-ironchest:gold_diamond_chest_upgrade, Улучшение из золотого в алмазный сундук
-ironchest:copper_silver_chest_upgrade, Улучшение из медного в серебряный сундук
-ironchest:silver_gold_chest_upgrade, Улучшение из серебряного в золотой сундук
-ironchest:copper_iron_chest_upgrade, Улучшение из медного в железный сундук
-ironchest:diamond_crystal_chest_upgrade, Улучшение из алмазного в кристальный сундук
-ironchest:wood_iron_chest_upgrade, Улучшение из деревянного в железный сундук
-ironchest:wood_copper_chest_upgrade, Улучшение из деревянного в медный сундук
-ironchest:diamond_obsidian_chest_upgrade, Улучшение из алмазного в обсидиановый сундук
-ironchest:iron_gold_shulker_upgrade, Улучшение из железного в золотой Шалкеровый ящик
-ironchest:gold_diamond_shulker_upgrade, Улучшение из золотого в алмазный Шалкеровый ящик
-ironchest:copper_silver_shulker_upgrade, Улучшение из медного в серебряный Шалкеровый ящик
-ironchest:silver_gold_shulker_upgrade, Улучшение из серебряного в золотой Шалкеровый ящик
-ironchest:copper_iron_shulker_upgrade, Улучшение из медного в железный Шалкеровый ящик
-ironchest:diamond_crystal_shulker_upgrade, Улучшение из алмазного в кристальный Шалкеровый ящик
-ironchest:vanilla_iron_shulker_upgrade, Улучшение из обычного в железный Шалкеровый ящик
-ironchest:vanilla_copper_shulker_upgrade, Улучшение из обычного в медный Шалкеровый ящик
-ironchest:diamond_obsidian_shulker_upgrade, Улучшение из алмазного в обсидиановый Шалкеровый ящик
 twilightforest:naga_scale, Чешуя наги
 twilightforest:naga_chestplate, Нагрудник из чешуи наги
 twilightforest:naga_leggings, Поножи из чешуи наги
