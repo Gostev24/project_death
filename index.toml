@@ -22,7 +22,7 @@ hash = "7fe7edfd1c789837ef4a641cfac41cce47d9930c86a3dc07e466148582f272c9"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "a7a124a2af46bb867135d45443c74f55552b3583626ee6e09afcdcd6b031a73b"
+hash = "cf832bceadf10d00619ab800877a50c20ae10ac2181ac4fcfbe2b17e8b707fb9"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -38,7 +38,7 @@ hash = "084c47bcad238ec01bf9e9fe515781d62cb5a6323ea363139c1ec72113700c25"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "94224d6658e52972bf5785caad9dba803f15056d012f74d4c0ec3b7544894208"
+hash = "ee5d8ef5c841b86e22136ae3022971499a41c37cf445e35c3ee605a8a89cb546"
 
 [[files]]
 file = "config/Extreme Reactors/Extreme Reactors.cfg"
@@ -46,11 +46,11 @@ hash = "2f3a280af647139ec5a4d90dee38d862eabe438cc4937a704d5e8fe54455e3cc"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "e62653045a3cdf9ba44d51f3f9bf4e5de308091ea65dcfb995381583ef1a286f"
+hash = "1dc7874009773f7c7b4c24b1412b6c752d2378847b24d328df69bc3d6bd25514"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
-hash = "21a6f237750c7c34f9a37c373437accef971f8ffc66cf80376c68f514e687e7f"
+hash = "c8dc4753afd0ab58f47c672af50bbc78de81e1503d5f7950c769a619ae3dae6c"
 
 [[files]]
 file = "config/InvTweaks/InvTweaksRules.txt"
@@ -677,38 +677,6 @@ file = "config/doggytalents.cfg"
 hash = "bb842f9b675f079c9ce09db40588b85c0893c5dbc4e41d42fe3daa36bd33422c"
 
 [[files]]
-file = "config/dynamiclights.cfg"
-hash = "54326c1b50daf121503bb34ffd500e7ae23d0597de2c4e739a1c54739088daa7"
-
-[[files]]
-file = "config/dynamiclights_dropitems.cfg"
-hash = "68a11be19873903764ec0b5e84214965babb1d24770f9ad1f5e3d5586d65478c"
-
-[[files]]
-file = "config/dynamiclights_entityclasses.cfg"
-hash = "08f3fc7223907f8a4c8dddcaabf6a062e692ce05dc06b20b72e6551a9241638f"
-
-[[files]]
-file = "config/dynamiclights_floodlights.cfg"
-hash = "7ebce183bc6e28b332312a8ba346ef835fd2ab41d7924451013217e51abe787b"
-
-[[files]]
-file = "config/dynamiclights_mobequipment.cfg"
-hash = "ce4a10c601340aa59eee68861d77630ea01c00c41cdef2d77a0aa3602bbb1da2"
-
-[[files]]
-file = "config/dynamiclights_onfire.cfg"
-hash = "3c821c63208de5f50896794e99bb1b1ee46a7d22ae564581e6582b6dd1f9b1bf"
-
-[[files]]
-file = "config/dynamiclights_otherplayers.cfg"
-hash = "120f9c05ce73b9a67916a31e30434e8c5fd624d5a00d2cf53e62f913f1a91554"
-
-[[files]]
-file = "config/dynamiclights_theplayer.cfg"
-hash = "cffe55f154b4cf8c79d9dfae035d66acf8d57d51fe87d893b549f92706d88994"
-
-[[files]]
 file = "config/enchdesc.cfg"
 hash = "6b3cb302fc6ac8d7fdaa3063e2df968fea7470d3101f885fa6774b98554bde62"
 
@@ -1042,7 +1010,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "ff7b378dad122eb41b617e00677757fcfdbec8b0b4f195fe9c8daba1025686f4"
+hash = "4c004281a140da6debe617ea0e8e8c98372ea55d3c82afe36449b310dbd5082f"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1182,7 +1150,7 @@ hash = "4e391cf531632b6b2aaedd7ff9bc444bf6250936134f343a251fabd3c4cf9900"
 
 [[files]]
 file = "config/splash.properties"
-hash = "da26fc9d811089672c0d524b322f8e13cbcff0a0c09231aa2dbddadd495e5d36"
+hash = "3c13f7ed6b276511e9a23151e493bae61cbfb1b8f9df3f26b2ff2c2b22a1eb3d"
 
 [[files]]
 file = "config/toastcontrol.cfg"
@@ -1347,10 +1315,6 @@ hash = "98aacc7ce049466bda570e34be2865317262fc7e8773c4c30cd9ec5d890937eb"
 [[files]]
 file = "mods/Draconic-Evolution-1.12.2-2.3.28.354-universal.jar"
 hash = "1eecdefa00056efac98ff56e25f7ed840b70e2d809c628e38c9c5b5518ff14ff"
-
-[[files]]
-file = "mods/DynamicLights-1.12.2.jar"
-hash = "6c116783121112f699947368b5cce742277f7c0c69b4fac92b60165d293c4c27"
 
 [[files]]
 file = "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar"
@@ -1598,7 +1562,7 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "c2e2506a4a72974b1cd8656bb425fb5539d49b30169f5a0ac3e39cbae811dc95"
+hash = "02c1a5d8b2b8a88b79067618f95274f5e2bf14c176bea432cb24803d6c7d4d52"
 
 [[files]]
 file = "patchouli_data.json"
