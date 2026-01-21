@@ -46,11 +46,11 @@ hash = "2f3a280af647139ec5a4d90dee38d862eabe438cc4937a704d5e8fe54455e3cc"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "6af820acbbe54878dcad1b2707deadd1cc4308c92d2bd6a61998b21f1632540c"
+hash = "e62653045a3cdf9ba44d51f3f9bf4e5de308091ea65dcfb995381583ef1a286f"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
-hash = "07ff0a97336a4881295fffe83b27d993e709895c0dee506622d8225e5a96c63a"
+hash = "21a6f237750c7c34f9a37c373437accef971f8ffc66cf80376c68f514e687e7f"
 
 [[files]]
 file = "config/InvTweaks/InvTweaksRules.txt"
@@ -1034,7 +1034,7 @@ hash = "4faf1045129337a2d179f5a5126ba6d6708c09ee66dbf8261776ee60f645d34d"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "472023b01e6b31889b5f8eef753ae90267dd45e48e69280ad661136abe928a77"
+hash = "775d705da1464a9d81e8dc7125a4b73300c97d9a2694e379843b62a3666b65ee"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -1042,7 +1042,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "10c411d5f7c27623c92e9870c5c87dd14ed78429d56550339b128661368cd8be"
+hash = "ff7b378dad122eb41b617e00677757fcfdbec8b0b4f195fe9c8daba1025686f4"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1182,7 +1182,7 @@ hash = "4e391cf531632b6b2aaedd7ff9bc444bf6250936134f343a251fabd3c4cf9900"
 
 [[files]]
 file = "config/splash.properties"
-hash = "ec0277bdd46e5cdfb66b91ea4171370ba7a6cbff1f22dcad0fbdc24a8fefacad"
+hash = "da26fc9d811089672c0d524b322f8e13cbcff0a0c09231aa2dbddadd495e5d36"
 
 [[files]]
 file = "config/toastcontrol.cfg"
@@ -1485,10 +1485,6 @@ file = "mods/ae2stuff-0.7.0.4-mc1.12.2.jar"
 hash = "123038d365611d0b074f2d1a100962198c72a8386b0b56e09395b4070ff4190f"
 
 [[files]]
-file = "mods/ae2webintegration-1.0.0-forge-1.12.2.jar"
-hash = "71ee1017f73287b8f5877fa7b68cb59ede830d52ee2016cf3308b36749053283"
-
-[[files]]
 file = "mods/bdlib-1.14.4.1-mc1.12.2.jar"
 hash = "b385f1a6f3f908673324ef03ed15b6bb5f588ce2e36443acc7273a6263cca045"
 
@@ -1602,7 +1598,7 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "4019dce62a23ec56a36ef1e64f1ae9567281bc8314f5a1ccc8f3d2ef394bdc11"
+hash = "c2e2506a4a72974b1cd8656bb425fb5539d49b30169f5a0ac3e39cbae811dc95"
 
 [[files]]
 file = "patchouli_data.json"
