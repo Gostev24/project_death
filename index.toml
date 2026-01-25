@@ -22,7 +22,7 @@ hash = "7fe7edfd1c789837ef4a641cfac41cce47d9930c86a3dc07e466148582f272c9"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "cf832bceadf10d00619ab800877a50c20ae10ac2181ac4fcfbe2b17e8b707fb9"
+hash = "37a9e4dc1cbdc57b84efa2cf6f33fdb58d1217896ca1214e0c849c7a7f7c24cd"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -30,7 +30,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "1bdaff3603afc03e39e9dd990d9ef2b624c5682b6524a325d7bef9c8190b64bc"
+hash = "65226c7a5676e0778f4d1f762b0d0c31785505f5a57a2c6351dcdc51ddfd4dbf"
 
 [[files]]
 file = "config/AppliedEnergistics2/extracells.cfg"
@@ -38,7 +38,7 @@ hash = "084c47bcad238ec01bf9e9fe515781d62cb5a6323ea363139c1ec72113700c25"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "ee5d8ef5c841b86e22136ae3022971499a41c37cf445e35c3ee605a8a89cb546"
+hash = "20b37e2748a15dbccc16555e884c0fd888ad3c561754d3a3327d5e4d0985ca3e"
 
 [[files]]
 file = "config/Extreme Reactors/Extreme Reactors.cfg"
@@ -46,11 +46,11 @@ hash = "2f3a280af647139ec5a4d90dee38d862eabe438cc4937a704d5e8fe54455e3cc"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "1dc7874009773f7c7b4c24b1412b6c752d2378847b24d328df69bc3d6bd25514"
+hash = "8c90f86882ef82e3c14841b90e64650a62a12627366eb2dc53f49dddf01d0721"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
-hash = "c8dc4753afd0ab58f47c672af50bbc78de81e1503d5f7950c769a619ae3dae6c"
+hash = "c992b3902033af4f270bbd62ca1a105b836427d2537d04af967568fc6563e43d"
 
 [[files]]
 file = "config/InvTweaks/InvTweaksRules.txt"
@@ -71,6 +71,10 @@ hash = "bd48256458bfe3691a43be2e092ee78ec06f4d27d1c66cb15f235b41b36bddda"
 [[files]]
 file = "config/JustEnoughCharacters.cfg"
 hash = "63b54e22e290b243a9f4fce9de8997ef61ccf5ed593753c775328dbcfc20197e"
+
+[[files]]
+file = "config/UniqueNames.txt"
+hash = "8df37d28c23ac7a310bbd06f1da99b70e32b4c396776f00d0454cf4e1a47dd22"
 
 [[files]]
 file = "config/advanced_solar_panels.cfg"
@@ -569,6 +573,10 @@ file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
 hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
 
 [[files]]
+file = "config/bspkrscore.cfg"
+hash = "2b0c43661420094e5c85bbd30473d21c91ac1cb3b603b818a5d0575ba647e4c9"
+
+[[files]]
 file = "config/codechicken/supporters.json"
 hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
 
@@ -1010,7 +1018,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "4c004281a140da6debe617ea0e8e8c98372ea55d3c82afe36449b310dbd5082f"
+hash = "ca284c51973e9f543910c0b5ce1f6182131e269979cb77fe0cad17e12f730f5f"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1150,11 +1158,15 @@ hash = "4e391cf531632b6b2aaedd7ff9bc444bf6250936134f343a251fabd3c4cf9900"
 
 [[files]]
 file = "config/splash.properties"
-hash = "3c13f7ed6b276511e9a23151e493bae61cbfb1b8f9df3f26b2ff2c2b22a1eb3d"
+hash = "bf64cf83b946ba7333cf7b77369907f02e75b89f5e52a5e4823266fec8b80f3e"
 
 [[files]]
 file = "config/toastcontrol.cfg"
 hash = "45f5fbced3b98103513288df2ef1808e89699c42f1e4b9d5e1ecfec38bd72449"
+
+[[files]]
+file = "config/treecapitator.cfg"
+hash = "4cbd86ae6e281d1698de31904527cff86d9174592b388697f6dcaac96a48fcb7"
 
 [[files]]
 file = "config/twilightforest.cfg"
@@ -1239,6 +1251,16 @@ hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
 [[files]]
 file = "mods/!mixinbooter-10.7.jar"
 hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
+
+[[files]]
+file = "mods/.index/bspkrscore-updated.pw.toml"
+hash = "4e9d4d04451d1684b296c3b0ffa6696a1ed2bbb4355ead601289e442dc922ff1"
+metafile = true
+
+[[files]]
+file = "mods/.index/treecapitator-updated.pw.toml"
+hash = "428e899689fd68bb811d6369df389d661150ea307fe5bca9792746f14ca428ad"
+metafile = true
 
 [[files]]
 file = "mods/AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar"
@@ -1345,10 +1367,6 @@ file = "mods/FTBUtilities-5.4.1.131.jar"
 hash = "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a"
 
 [[files]]
-file = "mods/FallingTreesByLukeMCPE-1.0.jar"
-hash = "861743a4dd97b05cf03b282c337de38a7ef1fa97ed73481772f08a5dea20006b"
-
-[[files]]
 file = "mods/FpsReducer-mc1.12.2-1.20.jar"
 hash = "4c04d17010c77196226bb5f2a64c4c8dc348c144ce6183906d6ff301227780d5"
 
@@ -1435,6 +1453,14 @@ hash = "6dbb4140af8171d07752abfe225d6ad0a6981b4dc143b53d78fed4ea0ea3f00c"
 [[files]]
 file = "mods/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
 hash = "69e5b82f33925169e33456a5f6b3202917c06fc34f1f32f71cf553b0733f0114"
+
+[[files]]
+file = "mods/[1.12]TreeCapitator-client-1.43.0.jar"
+hash = "bf74d54c763f27de2913d74b5cbbcd17fd68cda61d4c83cc44a239d7d890dfd4"
+
+[[files]]
+file = "mods/[1.12]bspkrsCore-universal-7.6.0.1.jar"
+hash = "2d7e9066c4394a8ba4725b6f0ca44c8a7999b9fdda4a3996d01dc526fc64095d"
 
 [[files]]
 file = "mods/_MixinBootstrap-1.1.0.jar"
@@ -1562,7 +1588,7 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "02c1a5d8b2b8a88b79067618f95274f5e2bf14c176bea432cb24803d6c7d4d52"
+hash = "58e5336500e5672282e9fbb60e778861811dd0e3d3ac4acb016a67a61ad6621e"
 
 [[files]]
 file = "patchouli_data.json"
